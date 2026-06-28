@@ -63,7 +63,7 @@ The solution covers the full ML lifecycle: data preprocessing → EDA → model 
 
 ```bash
 git clone https://github.com/JeetKurrey/Customer-churn-and-revenue-forecasting.git
-cd telecom-ml-assignment
+cd Customer-churn-and-revenue-forecasting
 ```
 
 ### 2. Create a Virtual Environment
