@@ -62,7 +62,7 @@ The solution covers the full ML lifecycle: data preprocessing → EDA → model 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/telecom-ml-assignment.git
+git clone https://github.com/JeetKurrey/Customer-churn-and-revenue-forecasting.git
 cd telecom-ml-assignment
 ```
 
