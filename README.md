@@ -284,7 +284,7 @@ telecom-ml-assignment/
 Detailed analysis reports are available in the `reports/` directory:
 
 - [`Churn_Classification_Report.md`](reports/Churn_Classification_Report.md)
-- [`Regression_Analysis_Report.md`](reports/Regression_Analysis_Report.md)
+- [`Regression_Analysis_Report.md`](reports/regression analysis report.md)
 
 ---
 
