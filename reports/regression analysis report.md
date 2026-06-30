@@ -1,4 +1,4 @@
-# 📈 Regression Analysis Report — Telco Revenue Forecasting
+# 📈 Regression Analysis Report — Telcom Revenue Forecasting
 
 <div align="center">
 
